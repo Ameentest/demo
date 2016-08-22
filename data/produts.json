@@ -1,0 +1,92 @@
+[
+	{
+		"id":1,
+	    "title": "Sony Cyber-shot DSC-H300 20.1 Megapixels Digital Camera - Black",
+	    "description": "With a high resolution 20.1 MP Super HAD CCD sensor, you will receive with the Sony DSC-H300, not only pictures, but HD 720p videos with beautiful colors and astonishing detail. With the DSLR-style body with easy to grasp grip, the black Sony Cyber-shot 20.1 MP camera is easy to use, combining the features of simple point and shot camera and a professional one",
+	    "type": "camera",
+	    "price": "11000",
+	    "emi": "400",
+	    "image": "p1.jpg",
+	    "properties": {
+	            "pixel": "20.1 MP",
+	            "type": "Long Zoom Cameras - Above 10X",
+	            "size": "7.5 inch"
+	    }
+
+	},
+	{
+		"id":2,
+	    "title": "Lois Caron LCS-4027 Analog Watch - For Boys",
+	    "description": "Lois Caron LCS-4027 Analog Watch - For Boys",
+	    "type": "Watch",
+	    "price": "12000",
+	    "emi": "450",
+	    "image": "w1.jpeg",
+	    "properties": {
+	            "pixel": "OLED Display",
+	            "type": "Step Count, Calorie Count, Distance Count, Sleep Monitoring",
+	            "size": "5 inch"
+	    }
+
+	},
+	{
+		"id":3,
+	    "title": "Sony Cyber-shot DSC-H300 20.1 Megapixels Digital Camera - Gray",
+	    "description": "With a high resolution 20.1 MP Super HAD CCD sensor, you will receive with the Sony DSC-H300, not only pictures, but HD 720p videos with beautiful colors and astonishing detail. With the DSLR-style body with easy to grasp grip, the black Sony Cyber-shot 20.1 MP camera is easy to use, combining the features of simple point and shot camera and a professional one",
+	    "type": "camera",
+	    "price": "20000",
+	    "emi": "1000",
+	    "image": "p3.jpg",
+	    "properties": {
+	            "pixel": "21.1 MP",
+	            "type": "Long Zoom Cameras - Above 10X",
+	            "size": "10.1 inch"
+	    }
+
+	},
+	{
+		"id":4,
+	    "title": "Sony Cyber-shot DSC-H300 20.1 Megapixels Digital Camera - Brown",
+	    "description": "With a high resolution 20.1 MP Super HAD CCD sensor, you will receive with the Sony DSC-H300, not only pictures, but HD 720p videos with beautiful colors and astonishing detail. With the DSLR-style body with easy to grasp grip, the black Sony Cyber-shot 20.1 MP camera is easy to use, combining the features of simple point and shot camera and a professional one",
+	    "type": "camera",
+	    "price": "19000",
+	    "emi": "900",
+	    "image": "p1.jpg",
+	    "properties": {
+	            "pixel": "21.1 MP",
+	            "type": "Long Zoom Cameras - Above 20X",
+	            "size": "7.1 inch"
+	    }
+
+	},
+	{
+		"id":5,
+	    "title": "Intex FitRist(Black)",
+	    "description": "With a high resolution 20.1 MP Super HAD CCD sensor, you will receive with the Sony DSC-H300, not only pictures, but HD 720p videos with beautiful colors and astonishing detail. With the DSLR-style body with easy to grasp grip, the black Sony Cyber-shot 20.1 MP camera is easy to use, combining the features of simple point and shot camera and a professional one",
+	    "type": "Watch",
+	    "price": "21000",
+	    "emi": "3000",
+	    "image": "s1.jpeg",
+	    "properties": {
+	            "pixel": "OLED Display",
+	            "type": "Step Count, Calorie Count, Distance Count, Sleep Monitoring",
+	            "size": "5 inch"
+	    }
+
+	},
+	{
+		"id":6,
+	    "title": "Sony Cyber-shot DSC-H300 20.1 Megapixels Digital Camera - Blue",
+	    "description": "With a high resolution 20.1 MP Super HAD CCD sensor, you will receive with the Sony DSC-H300, not only pictures, but HD 720p videos with beautiful colors and astonishing detail. With the DSLR-style body with easy to grasp grip, the black Sony Cyber-shot 20.1 MP camera is easy to use, combining the features of simple point and shot camera and a professional one",
+	    "type": "camera",
+	    "price": "15000",
+	    "emi": "400",
+	    "image": "p2.jpg",
+	    "properties": {
+	            "pixel": "20.1 MP",
+	            "type": "Long Zoom Cameras - Above 10X",
+	            "size": "7.5 inch"
+	    }
+
+	}
+]
